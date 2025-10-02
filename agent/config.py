@@ -7,7 +7,7 @@ import os
 # GEMINI API CONFIGURATION
 # ========================================
 
-GEMINI_API_KEY = "AIzaSyD9EojNt0eFLtbe0KQod0waLFpSZtumzpA"
+GEMINI_API_KEY = "Enter Your API key"
 
 # ========================================
 # MODEL SETTINGS
