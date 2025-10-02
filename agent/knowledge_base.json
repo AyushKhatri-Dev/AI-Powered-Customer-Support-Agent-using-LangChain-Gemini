@@ -1,0 +1,196 @@
+{
+  "company_info": {
+    "name": "Skyline Residences",
+    "tagline": "Building Dreams, Creating Homes",
+    "years_of_experience": 15,
+    "completed_projects": 12,
+    "ongoing_projects": 2,
+    "usp": [
+      "Timely delivery guarantee",
+      "Prime locations in Noida",
+      "RERA certified projects",
+      "In-house home loan assistance",
+      "World-class amenities"
+    ],
+    "about": "Skyline Residences is a trusted name in real estate with 15 years of excellence in delivering premium residential projects across Noida."
+  },
+  
+  "projects": [
+    {
+      "id": 1,
+      "name": "Skyline Heights",
+      "type": "Apartments",
+      "configurations": ["2BHK", "3BHK"],
+      "sizes": {
+        "2BHK": "1150-1250 sq.ft",
+        "3BHK": "1650-1850 sq.ft"
+      },
+      "price_range": {
+        "2BHK": "₹55 Lakhs - ₹68 Lakhs",
+        "3BHK": "₹85 Lakhs - ₹1.05 Crores"
+      },
+      "location": "Sector 137, Noida Expressway",
+      "possession_date": "December 2025",
+      "rera_number": "UPRERAPRJ12345",
+      "status": "Under Construction",
+      "floors": 25,
+      "total_units": 300,
+      "highlights": [
+        "Walking distance to metro station",
+        "Adjacent to proposed mall",
+        "Vastu compliant",
+        "Earthquake resistant structure"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Skyline Villas",
+      "type": "Villas",
+      "configurations": ["3BHK", "4BHK"],
+      "sizes": {
+        "3BHK": "2200-2500 sq.ft",
+        "4BHK": "3000-3500 sq.ft"
+      },
+      "price_range": {
+        "3BHK": "₹1.2 Crores - ₹1.6 Crores",
+        "4BHK": "₹1.8 Crores - ₹2.4 Crores"
+      },
+      "location": "Sector 150, Noida",
+      "possession_date": "June 2026",
+      "rera_number": "UPRERAPRJ67890",
+      "status": "Under Construction",
+      "total_units": 50,
+      "highlights": [
+        "Gated community with 24x7 security",
+        "Private garden for each villa",
+        "Smart home automation",
+        "Dedicated servant quarters"
+      ]
+    }
+  ],
+  
+  "amenities": {
+    "common": [
+      "Swimming Pool",
+      "Gymnasium",
+      "Kids Play Area",
+      "24x7 Security with CCTV",
+      "Power Backup",
+      "Covered Parking",
+      "Landscaped Gardens",
+      "Community Hall",
+      "Jogging Track",
+      "Meditation Area"
+    ],
+    "premium_villas_only": [
+      "Clubhouse with Indoor Games",
+      "Tennis Court",
+      "Barbecue Area",
+      "Private Terrace Garden",
+      "Home Automation System"
+    ]
+  },
+  
+  "pricing_info": {
+    "booking_amount": "₹2 Lakhs (refundable)",
+    "payment_plans": [
+      "Construction Linked Plan (CLP) - Pay as construction progresses",
+      "Down Payment Plan - 20% down, rest on possession",
+      "Flexi Payment Plan - Customized based on customer needs"
+    ],
+    "home_loan_assistance": "Yes, we have tie-ups with leading banks like HDFC, ICICI, SBI, and Axis Bank. Our team assists with documentation and approval process.",
+    "special_offers": "Limited period offer: Waiver on stamp duty and registration charges for bookings done this month.",
+    "gst": "GST as applicable (currently 5% for under-construction properties)"
+  },
+  
+  "legal_info": {
+    "rera_approved": true,
+    "rera_website": "https://up-rera.in",
+    "approvals": [
+      "RERA Certified",
+      "Environmental Clearance",
+      "Noida Authority Approved",
+      "Fire Safety NOC",
+      "Occupancy Certificate (for completed projects)"
+    ],
+    "documentation_required": [
+      "PAN Card",
+      "Aadhar Card",
+      "Address Proof",
+      "Income Proof (for home loan)",
+      "Cancelled Cheque"
+    ]
+  },
+  
+  "faqs": [
+    {
+      "category": "General",
+      "question": "Is the project RERA approved?",
+      "answer": "Yes, all our projects are RERA certified. Skyline Heights has RERA number UPRERAPRJ12345 and Skyline Villas has UPRERAPRJ67890."
+    },
+    {
+      "category": "Booking",
+      "question": "How can I book a site visit?",
+      "answer": "You can book a site visit by calling us at +91-9876543210 or emailing at info@skylineresidences.com. Our team will schedule a convenient time for you. Site visits are available Monday to Saturday, 10 AM to 6 PM."
+    },
+    {
+      "category": "Payment",
+      "question": "What is the booking amount?",
+      "answer": "The booking amount is ₹2 Lakhs which is refundable. This amount will be adjusted against the total property cost."
+    },
+    {
+      "category": "Payment",
+      "question": "Do you provide home loan assistance?",
+      "answer": "Yes, we have partnerships with leading banks including HDFC, ICICI, SBI, and Axis Bank. Our team will help you with documentation and the entire loan approval process."
+    },
+    {
+      "category": "Possession",
+      "question": "When will I get possession?",
+      "answer": "Skyline Heights possession is scheduled for December 2025, and Skyline Villas for June 2026. We have a track record of timely deliveries."
+    },
+    {
+      "category": "Legal",
+      "question": "What documents do I need for booking?",
+      "answer": "You'll need PAN Card, Aadhar Card, Address Proof, and a Cancelled Cheque. For home loan, income proof will also be required."
+    },
+    {
+      "category": "Pricing",
+      "question": "What is the price range for 2BHK apartments?",
+      "answer": "2BHK apartments in Skyline Heights are priced between ₹55 Lakhs to ₹68 Lakhs, with sizes ranging from 1150 to 1250 sq.ft."
+    },
+    {
+      "category": "Pricing",
+      "question": "What is the price range for 3BHK?",
+      "answer": "3BHK apartments in Skyline Heights range from ₹85 Lakhs to ₹1.05 Crores. For villas, 3BHK is priced between ₹1.2 Crores to ₹1.6 Crores."
+    },
+    {
+      "category": "Amenities",
+      "question": "What amenities are available?",
+      "answer": "We offer swimming pool, gymnasium, kids play area, 24x7 security, power backup, covered parking, landscaped gardens, jogging track, and more. Villas also have additional premium amenities like clubhouse and tennis court."
+    },
+    {
+      "category": "Location",
+      "question": "Where are the projects located?",
+      "answer": "Skyline Heights is located in Sector 137 on Noida Expressway, walking distance from metro. Skyline Villas is in Sector 150, Noida, a premium gated community."
+    },
+    {
+      "category": "Payment",
+      "question": "What are the payment plans available?",
+      "answer": "We offer Construction Linked Plan (CLP), Down Payment Plan (20% down), and Flexi Payment Plan which can be customized based on your needs."
+    },
+    {
+      "category": "General",
+      "question": "Are there any special offers?",
+      "answer": "Yes! Currently we're offering a waiver on stamp duty and registration charges for bookings made this month. This is a limited period offer."
+    }
+  ],
+  
+  "contact_info": {
+    "office_address": "Skyline Residences Head Office, Plot No. 45, Sector 62, Noida - 201309",
+    "phone": "+91-9876543210",
+    "email": "info@skylineresidences.com",
+    "website": "www.skylineresidences.com",
+    "working_hours": "Monday to Saturday: 10:00 AM - 6:00 PM (Sunday closed)",
+    "site_visit_booking": "Call or email to schedule. Free pick-up and drop facility available from Noida metro stations."
+  }
+}
